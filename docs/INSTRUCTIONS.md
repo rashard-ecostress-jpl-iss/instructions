@@ -35,22 +35,15 @@ To ensure mandatory policies are followed, NASA org members are not given the fu
 #### Org Owners
 We currently have six active owners in the org:
 
-Jeremy Yagle: github username = jyagle
-
-Nidhi Wahi: github username = NWahi09
+Jennifer Wei: github username = jwei-openscapes
 
 Darith Yim : github username = dsyim
 
 Daniel Rendon : github username = dcrendon
 
-Tessa Brazda : github username = tmbrazda
+Alexander R Kirtley : github username = AlexKirtleyNASA
 
 Andre Gueret: github username = AndreGueretNASA
-
-<!--
-Miles Crabbe : github username = MilesCrabbe
-
-Elizabeth Wainwright : github username = elizabeth-wainwright-->
 
 A general purpose contact email is <a href="mailto:hq-open-innovation@mail.nasa.gov">hq-open-innovation@mail.nasa.gov</a>, please mention the specific nature of your question as this email is also used on data.nasa.gov & api.nasa.gov. 
 
